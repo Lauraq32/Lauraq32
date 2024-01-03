@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Laura Quezada</h1>
 <h3>A Software Engineer from Dominican Republic 🇩🇴</h3>
 
-- 🌱 I’m currently learning **CQRS, MediatR, DDD (Domain Driven Design) & Clean Architecture**
+- 🌱 I’m currently learning **DDD (Domain Driven Design) & Clean Architecture, while also enhancing my skills in microservices, NestJS, ReactJS, TypeScript, JavaScript, algorithms.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lauraq32](https://github.com/Lauraq32)
 
-- 💬 Ask me about **Nest.js"React.js" & Clean Architecture**
+- 💬 Ask me about **Nest.js, React.js, Clean Architecture, JavaScript, microservices, TypeScript, and algorithms.**
 
 <h3 align="left">Languages and Tools:</h3>
 
